@@ -1,2 +1,0 @@
-# Portafolio
-API REST, Mongodb
